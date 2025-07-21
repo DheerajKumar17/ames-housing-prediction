@@ -108,7 +108,9 @@ This project was created as part of my data science portfolio, demonstrating pra
 
 Connect with me on:
 LinkedIn: https://www.linkedin.com/in/dheeraj-kusuma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 Email: kusuma.d@northeasten.edu
+
 Portfolio: https://github.com/DheerajKumar17
 
 
