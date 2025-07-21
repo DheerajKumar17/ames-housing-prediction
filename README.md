@@ -42,7 +42,9 @@ df['Total_Bathrooms'] = df['Full Bath'] + df['Half Bath'] * 0.5 + df['Bsmt Full 
 df['Has_Premium_Feature'] = (df['Premium_Feature'].notnull()).astype(int)
 
 Model Comparison
-ModelR² ScorePerformanceGradient Boosting0.8800🏆 BestRandom Forest0.8741StrongRidge Regression0.8293BaselineLinear Regression0.8294Baseline
+Model- Gradient Boosting, Random Forest, Ridge Regression, Linear Regression
+R²- 0.8800🏆, 0.8741, 0.8293, 0.8294
+Score - Best, Strong, Baseline, Baseline
 
 🚀 Quick Start
 Prerequisites:
@@ -51,18 +53,17 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 Running the Project:
 1. Clone this repository
-
-bashgit clone https://github.com/yourusername/ames-housing-prediction.git
+bash
+git clone https://github.com/yourusername/ames-housing-prediction.git
 cd ames-housing-prediction
 
 2. Install requirements
-
 bash
 pip install -r requirements.txt
 
 3. Open Jupyter Notebook
-
-bashjupyter notebook ames_housing_analysis.ipynb
+bash
+jupyter notebook ames_housing_analysis.ipynb
 
 📁 Project Structure:
 ames_housing_analysis.ipynb - Main analysis notebook with visualizations
