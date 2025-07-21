@@ -1,5 +1,6 @@
 🏠 Ames Housing Price Prediction
-A comprehensive machine learning project to predict house prices using the Ames Housing dataset, achieving 88% accuracy with advanced feature engineering.
+
+--> A comprehensive machine learning project to predict house prices using the Ames Housing dataset, achieving 88% accuracy with advanced feature engineering.
 
 📊 Project Overview
 This project demonstrates end-to-end machine learning workflow including data cleaning, feature engineering, and model comparison to predict residential property values in Ames, Iowa.
